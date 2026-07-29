@@ -98,7 +98,7 @@ h1,h2,h3{
 # SIDEBAR
 # ==============================
 
-st.sidebar.image("images/logo.png", width=130)
+st.sidebar.image("logo.png", width=130)
 
 st.sidebar.title("GlowCart")
 
